@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'SSToolkit'
-  s.version      = '1.0.2'
+  s.version      = '1.0.3'
   s.platform     = :ios
   s.summary      = 'A collection of well-documented iOS classes for making life easier.'
   s.homepage     = 'http://sstoolk.it'
